@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456234011497",
+    "firebase_url": "https://xamarinfcmdemo-adfce.firebaseio.com",
+    "project_id": "xamarinfcmdemo-adfce",
+    "storage_bucket": "xamarinfcmdemo-adfce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456234011497:android:f7c3f7d44260a2e7cd8bf8",
+        "android_client_info": {
+          "package_name": "com.demo.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456234011497-sf685padpvenebcf5bq1t4okrrtuhs7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0MUbnKCBmVkWmWA4p18uOsZHhMs79xWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456234011497-sf685padpvenebcf5bq1t4okrrtuhs7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
